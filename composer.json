@@ -12,7 +12,6 @@
   "authors": [
     {
       "name": "FlarumAlshain",
-      "email": "xtrmus2319@gmail.com",
       "role": "Developer"
     }
   ],
@@ -25,9 +24,9 @@
     "flarum-extension": {
       "title": "Show Last Post",
       "icon": {
-        "name": "",
-        "backgroundColor": "",
-        "color": ""
+			"name": "fas fa-pen-square",
+			"backgroundColor": "#4F57D2",
+			"color": "#FFFFFF"
       }
     },
     "flagrow": {
