@@ -1,6 +1,6 @@
 {
   "name": "flarumalshain/showlastpost",
-  "description": "Show Last Post",
+  "description": "See the last answers to the questions on the home page",
   "keywords": [
     "flarum"
   ],
@@ -24,9 +24,9 @@
     "flarum-extension": {
       "title": "Show Last Post",
       "icon": {
-			"name": "fas fa-pen-square",
-			"backgroundColor": "#4F57D2",
-			"color": "#FFFFFF"
+	"name": "fas fa-pen-square",
+	"backgroundColor": "#4F57D2",
+	"color": "#FFFFFF"
       }
     },
     "flagrow": {
