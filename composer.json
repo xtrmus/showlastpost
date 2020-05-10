@@ -11,13 +11,13 @@
   },
   "authors": [
     {
-      "name": "FlarumAlshain",
+      "name": "Phenomlab",
       "role": "Developer"
     }
   ],
   "autoload": {
     "psr-4": {
-      "FlarumAlshain\\ShowLastPost\\": "src/"
+      "Phenomlab\\ShowLastPost\\": "src/"
     }
   },
   "extra": {
