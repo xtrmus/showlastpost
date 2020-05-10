@@ -9,13 +9,13 @@ A [Flarum](http://flarum.org) extension. Show Last Post
 Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) or install manually with composer:
 
 ```sh
-composer require flarumalshain/showlastpost
+composer require phenomlab/showlastpost
 ```
 
 ### Updating
 
 ```sh
-composer update flarumalshain/showlastpost
+composer update phenomlab/showlastpost
 ```
 
 ### Links

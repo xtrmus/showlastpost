@@ -1,4 +1,4 @@
-<?php
+b<?php
 
 /*
  * This file is part of flarumalshain/showlastpost.
@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FlarumAlshain\ShowLastPost;
+namespace Phenomlab\ShowLastPost;
 
 use Flarum\Extend;
 use Illuminate\Contracts\Events\Dispatcher;

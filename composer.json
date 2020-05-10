@@ -1,5 +1,5 @@
 {
-  "name": "flarumalshain/showlastpost",
+  "name": "phenomlab/showlastpost",
   "description": "See the last answers to the questions on the home page",
   "keywords": [
     "flarum"
@@ -7,17 +7,17 @@
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
-    "flarum/core": ">=0.1.0-beta.9 < 0.1.0-beta.13"
+    "flarum/core": ">=0.1.0-beta.12 <0.1.0-beta.14"
   },
   "authors": [
     {
-      "name": "FlarumAlshain",
+      "name": "Phenomlab",
       "role": "Developer"
     }
   ],
   "autoload": {
     "psr-4": {
-      "FlarumAlshain\\ShowLastPost\\": "src/"
+      "Phenomlab\\ShowLastPost\\": "src/"
     }
   },
   "extra": {
