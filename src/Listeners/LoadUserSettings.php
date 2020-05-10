@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FlarumAlshain\ShowLastPost\Listeners;
+namespace Phenomlab\ShowLastPost\Listeners;
 
 use Flarum\Settings\SettingsRepositoryInterface;
 use Illuminate\Contracts\Events\Dispatcher;
