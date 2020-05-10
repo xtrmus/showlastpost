@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FlarumAlshain\ShowLastPost\Listeners;
+namespace Phenomlab\ShowLastPost\Listeners;
 
 use Flarum\Api\Controller\ListDiscussionsController;
 use Flarum\Api\Event\WillGetData;
